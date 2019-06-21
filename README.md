@@ -1,3 +1,6 @@
+##This is the initial, basic app from 'the Road to React'##
+I have added my comments to the code thus will add this to my repo as a reference app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

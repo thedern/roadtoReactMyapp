@@ -4,8 +4,10 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// render the App component in the index.html div id = 'root'
 ReactDOM.render(<App />, document.getElementById('root'));
 
+// enable hot reloads, very handy addition for projects not created with 'createReactApp'
 if (module.hot) {
   module.hot.accept();
 }
